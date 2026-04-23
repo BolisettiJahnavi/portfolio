@@ -7,7 +7,7 @@ A key highlight of the project is the animated header section, where the name sl
 
 Tech Stack
 -> HTML5  
-->CSS3 (Flexbox & Grid)  
+->CSS3 (Flexbox & Grid) 
 
 Purpose
 The purpose of this project is to:
